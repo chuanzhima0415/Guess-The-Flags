@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct A {
+    var a: Int = 0
+}
