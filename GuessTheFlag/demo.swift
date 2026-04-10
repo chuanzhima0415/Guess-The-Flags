@@ -29,3 +29,7 @@ struct D {
     var a: Int = 0
     var b = 0
 }
+
+struct C {
+    
+}
