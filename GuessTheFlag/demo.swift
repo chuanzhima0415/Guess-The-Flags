@@ -31,5 +31,5 @@ struct D {
 }
 
 struct C {
-    
+    var a = 0
 }
