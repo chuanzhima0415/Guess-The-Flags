@@ -13,4 +13,5 @@ struct A {
     var c: Int = 0
 	var d: Int = 0
 	var e: Int = 0
+	var f: Int = 0
 }
