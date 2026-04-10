@@ -15,3 +15,8 @@ struct A {
 	var e: Int = 0
 	var f: Int = 0
 }
+
+
+struct B {
+    
+}
