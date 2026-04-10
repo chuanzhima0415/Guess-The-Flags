@@ -24,3 +24,7 @@ struct B {
     var d = 0
     var e = 0
 }
+
+struct D {
+    
+}
