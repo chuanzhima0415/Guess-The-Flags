@@ -18,5 +18,5 @@ struct A {
 
 
 struct B {
-    
+    var a: Int = 0
 }
