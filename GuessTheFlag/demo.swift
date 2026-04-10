@@ -26,5 +26,5 @@ struct B {
 }
 
 struct D {
-    
+    var a: Int = 0
 }
